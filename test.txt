@@ -1,2 +1,10 @@
 main commit 
+<<<<<<< HEAD
 main commit 2
+=======
+
+
+
+
+branch 2 commit 2
+>>>>>>> b973982 (branch 2 commit)
